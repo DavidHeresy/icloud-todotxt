@@ -28,13 +28,13 @@ On iCloud you need a folder called `ToDo` where the `todo.txt` will live.
 Install the package with pip
 
 ```bash
-pip install --user path/to/dist/icloud_todotxt-0.1.0-py3-none-any.whl
+pip install --user icloud-todotxt
 ```
 
 or pipx
 
 ```bash
-pipx install path/to/dist/icloud_todotxt-0.1.0-py3-none-any.whl
+pipx install icloud-todotxt
 ```
 
 ## Usage
