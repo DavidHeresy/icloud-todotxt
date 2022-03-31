@@ -1,4 +1,4 @@
-"""Synchronize your local 'todo.txt' with iCloud."""
+"""Synchronize your local `todo.txt` with iCloud."""
 
 import os
 from pathlib import Path
