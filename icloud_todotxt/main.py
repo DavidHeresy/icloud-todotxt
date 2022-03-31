@@ -48,6 +48,7 @@ def upload():
     except KeyError:
         pass
 
+    # BUG: Error when command is executed in same directory as TODO_FILE.
     copyfile(TODO_FILE, "todo.txt")
     with open("todo.txt", "rb") as file_in:
         api.drive["ToDo"].upload(file_in)
