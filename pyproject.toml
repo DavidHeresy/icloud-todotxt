@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "icloud-todotxt"
 version = "0.1.1"
-description = "Synchronize your local 'todo.txt' with iCloud."
+description = "Synchronize your local `todo.txt` with iCloud."
 authors = ["David Härer <david@familie-haerer.de>"]
 readme = "README.md"
 
