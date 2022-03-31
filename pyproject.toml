@@ -4,6 +4,7 @@ version = "0.1.2"
 description = "Synchronize your local `todo.txt` with iCloud."
 authors = ["David Härer <david@familie-haerer.de>"]
 readme = "README.md"
+homepage = "https://github.com/DavidHeresy/icloud-todotxt"
 
 [tool.poetry.scripts]
 icloud-todotxt = "icloud_todotxt.main:app"
